@@ -2,4 +2,4 @@
 
 <!-- vim-markdown-toc -->
 
-Minimal instructions to setup a server running Apollo3. Start with [deployment.md](docs/deployment.md)
+Minimal instructions to setup a server running Apollo3. Start with [deployment.md](docs/deployment/deployment.md)
